@@ -1,0 +1,3 @@
+In the best case, the input is sorted, the time complexity is O(n log n).
+In the average case, the time complexity is O(n log n).
+In the worst case, the input is reverse sorted, the time complexity is O(n^2).
